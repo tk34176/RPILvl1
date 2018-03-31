@@ -1,0 +1,6 @@
+requests
+feedparser
+Pillow
+httplib2
+apiclient
+--upgrade google-api-python-client
